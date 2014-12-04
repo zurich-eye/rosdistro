@@ -6798,5 +6798,7 @@ repositories:
       url: https://github.com/stonier/zeroconf_msgs.git
       version: indigo
     status: developed
+tags:
+- ros_offical
 type: distribution
-version: 1
+version: 2
