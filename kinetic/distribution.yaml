@@ -3,6 +3,9 @@
 # see REP 143: http://ros.org/reps/rep-0143.html
 ---
 release_platforms:
+  fedora:
+  - '22'
+  - '23'
   ubuntu:
   - wily
   - xenial
